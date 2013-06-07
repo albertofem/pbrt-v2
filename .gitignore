@@ -14,3 +14,6 @@ pbrt.exr
 #src/core/pbrtparse.cpp
 #src/core/pbrtparse.hh
 src/core/pbrtparse.output
+
+bin/
+tmp/
